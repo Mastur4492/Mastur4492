@@ -34,23 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoMastur&show_icons=true&theme=github_dark" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoMastur&layout=compact&theme=github_dark" height="180px"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoMastur&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
