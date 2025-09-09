@@ -1,7 +1,6 @@
-
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mo.+Mastur;Frontend+Developer+%7C+Full-Stack+Learner;Learning+React,+DSA,+and+Backend+Dev;Let's+build+something+extraordinary!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mo.+Mastur;Frontend+Developer+%7C+Full-Stack+Learner;Learning+DSA+and+Backend+Dev;Let's+build+something+extraordinary!" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mo. Mastur</h1>
@@ -17,11 +16,11 @@
 
 | Category | Details |
 | -------- | ------- |
-| 🌟 *Expertise* | HTML, CSS, JavaScript, Bootstrap, Tailwind, C, C++, React.js, jQuery, Git, GitHub, DSA |
+| 🌟 *Expertise* | HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Node.js, Express.js, MongoDB, jQuery, Git, GitHub, C, C++, Java, Python, DSA |
 | 🎓 *Education* | BCA (Semester 3) – Swarnim Innovative University<br>Full Stack Training – Red & White Multimedia Education |
-| 💼 *Projects* | 🔹 User Management App<br>🔹 Tic-Tac-Toe Game<br>🔹 Spotify Clone<br>🔹 Countdown Timer<br>🔹 Flashcard Spaced Repetition App |
-| 🧠 *Goals* | Master React, DSA & Backend 🔥<br>Contribute to GSoC 2026 💻<br>Land an internship/job at Google 🚀 |
-| 💬 *Ask me about* | JavaScript, React, DOM, DSA in C++, Frontend Projects, GitHub |
+| 💼 *Projects* | 🔹 User Management App<br>🔹 Tic-Tac-Toe Game<br>🔹 Spotify Clone<br>🔹 Countdown Timer<br>🔹 Flashcard Spaced Repetition App<br>🔹 RNW Homepage Clone (React + Tailwind) |
+| 🧠 *Goals* | Master MERN Stack & DSA 🔥<br>Contribute to GSoC 2026 💻<br>Land an internship/job at Google 🚀 |
+| 💬 *Ask me about* | JavaScript, React, Node.js, Express.js, MongoDB, DSA in C++, Frontend Projects, GitHub |
 | 📫 *Contact Me* | bikanerwalamastur13@gmail.com |
 
 ---
@@ -29,7 +28,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,cpp,c,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,cpp,c,java,python" />
 </p>
 
 ---
