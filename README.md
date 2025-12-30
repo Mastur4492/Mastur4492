@@ -19,7 +19,7 @@
 | 🌟 *Expertise* | HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Node.js, Express.js, MongoDB, jQuery, Git, GitHub, C, C++, Java, Python, DSA |
 | 🎓 *Education* | BCA (Semester 3) – Swarnim Innovative University<br>Full Stack Training – Red & White Multimedia Education |
 | 💼 *Projects* | 🔹 User Management App<br>🔹 Tic-Tac-Toe Game<br>🔹 Spotify Clone<br>🔹 Countdown Timer<br>🔹 Flashcard Spaced Repetition App<br>🔹 RNW Homepage Clone (React + Tailwind) |
-| 🧠 *Goals* | Master MERN Stack & DSA 🔥<br>Contribute to GSoC 2026 💻<br>Land an internship/job at Google 🚀 |
+| 🧠 *Goals* | Master MERN Stack & DSA 🔥<br>Land an internship/job 🚀 |
 | 💬 *Ask me about* | JavaScript, React, Node.js, Express.js, MongoDB, DSA in C++, Frontend Projects, GitHub |
 | 📫 *Contact Me* | bikanerwalamastur13@gmail.com |
 
