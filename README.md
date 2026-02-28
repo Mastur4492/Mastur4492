@@ -12,7 +12,7 @@ Full-Stack MERN Developer | Backend & Database Architecture Focused
 
 ## 💡 About Me
 
-🎓 BCA (Semester 4) – Swarnim Innovative University  
+🎓 BCA (Semester 4) – Swarrnim Startup & Innovation University
 
 💻 Full-Stack MERN Developer with strong interest in:
 - Backend Engineering  
