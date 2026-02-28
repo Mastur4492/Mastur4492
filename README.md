@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Mastur</h1>
 <h3 align="center">
-Full-Stack MERN Developer | Backend & Database Architecture Focused
+Full-Stack MERN Developer | Backend & Database Architecture Enthusiast
 </h3>
 
 ---
