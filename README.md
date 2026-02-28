@@ -63,7 +63,7 @@ Full-stack MERN application demonstrating API design, data flow management, and 
 ## 🛠 Tech Stack
 
 ### Frontend
-React.js | HTML | CSS | Tailwind CSS | Bootstrap
+React.js | HTML | CSS | Tailwind CSS | Bootstrap | JS
 
 ### Backend
 Node.js | Express.js | REST APIs | Socket.io
