@@ -95,9 +95,6 @@ Git | GitHub | VS Code
   <a href="https://www.linkedin.com/in/mo-mastur-bikanerwala-7a7249313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Mastur4492" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
-  </a>
   <a href="mailto:bikanerwalamastur13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
