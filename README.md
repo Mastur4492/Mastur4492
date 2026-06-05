@@ -1,32 +1,41 @@
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Mohammad+Mastur;Full-Stack+MERN+Developer;Backend+%26+Database+Architecture+Focused;System+Design+%7C+DSA+in+C%2B%2B+🚀;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Mohammad+Mastur;Full-Stack+Developer;AI+Integration+Enthusiast;Backend+Engineering+%7C+System+Design;Building+Scalable+Applications+🚀" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Mastur</h1>
+
 <h3 align="center">
-Full-Stack MERN Developer | Backend & Database Architecture Enthusiast
+Full-Stack Developer | AI Integration Enthusiast | Backend Engineering
 </h3>
 
 ---
 
 ## 💡 About Me
 
-🎓 BCA (Semester 4) – Swarrnim Startup & Innovation University
+🎓 BCA (Semester 5) – Swarrnim Startup & Innovation University
 
-💻 Full-Stack MERN Developer with strong interest in:
-- Backend Engineering  
-- System Architecture Design  
-- Database Architecture & Optimization  
+💻 Full-Stack Developer passionate about building scalable web applications and AI-powered solutions.
+
+🧠 Strong interest in:
+- Backend Engineering
+- System Architecture Design
+- Database Architecture & Optimization
+- Artificial Intelligence
 
 🗄 Databases:
 - MongoDB (Primary)
-- Microsoft SQL Server (Learning)
+- PostgreSQL
 
-⚡ Experience building real-time systems using Socket.io  
+⚡ Experience building real-time systems using Socket.io
+
+🌱 Currently learning PostgreSQL and scalable backend architecture.
+
 🧠 Practicing Data Structures & Algorithms in C++
 
-🚀 Career Objective: To engineer scalable, high-performance backend systems and distributed applications.
+🚀 Career Objective:
+
+To engineer scalable software systems and intelligent applications that solve real-world problems.
 
 ---
 
@@ -38,11 +47,14 @@ Engineered a full-stack gig-economy delivery platform using MongoDB, Express, Re
 
 • Real-time order broadcasting with Socket.io  
 • Geolocation-based delivery matching using MongoDB 2dsphere indexing  
-• Live order tracking with Leaflet maps  
+• Live order tracking with Leaflet Maps  
 • Secure payment integration via Razorpay  
 • Vendor dashboard for inventory and order management  
-• Three-role architecture: Customer, Vendor, Delivery Partner  
-• Optimized backend logic for near real-time updates  
+• Three-role architecture:
+  - Customer
+  - Vendor
+  - Delivery Partner
+• Optimized backend logic for near real-time updates
 
 > Designed using scalable system architecture principles.
 
@@ -54,38 +66,53 @@ Structured booking and management platform focusing on REST APIs, backend logic,
 
 ---
 
-## 🤖 MERN Project Powered By AI
+## 🤖 AI-Powered Full-Stack Project
 
-Full-stack MERN application demonstrating API design, data flow management, and intelligent logic integration.
+Built a full-stack application integrating AI capabilities with modern web technologies.
+
+Focused on:
+- AI API Integration
+- Intelligent User Experiences
+- Backend Architecture
+- Scalable Data Flow
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-React.js | HTML | CSS | Tailwind CSS | Bootstrap | JS
+React.js | Next.js | HTML | CSS | Tailwind CSS | Bootstrap | JavaScript
 
 ### Backend
 Node.js | Express.js | REST APIs | Socket.io
 
 ### Databases
-MongoDB | Microsoft SQL Server
+MongoDB | PostgreSQL
+
+### AI & Tools
+OpenAI APIs | AI Integration | Prompt Engineering
 
 ### Programming
-C | C++ | Java | Python
+C | C++ | Java | Python | JavaScript
 
 ### Tools
-Git | GitHub | VS Code
+Git | GitHub | VS Code | Postman
 
 ---
 
 ## 📈 Currently Strengthening
 
-✔ Advanced Backend Architecture  
-✔ Database Indexing & Query Optimization  
-✔ Authentication & Security  
-✔ Scalable Code Structure  
-✔ DSA for Technical Interviews  
+✔ Advanced Backend Architecture
+
+✔ Database Indexing & Query Optimization
+
+✔ Authentication & Security
+
+✔ System Design Fundamentals
+
+✔ AI Integration
+
+✔ DSA for Technical Interviews
 
 ---
 
@@ -95,6 +122,7 @@ Git | GitHub | VS Code
   <a href="https://www.linkedin.com/in/mo-mastur-bikanerwala-7a7249313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:bikanerwalamastur13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
