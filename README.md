@@ -119,7 +119,7 @@ Git | GitHub | VS Code | Postman
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mo-mastur-bikanerwala-7a7249313/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammadmastur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
