@@ -202,16 +202,12 @@ Stack: React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet
     Open to discussing backend architecture, SaaS development, full-stack systems, and AI engineering.
   </p>
 
-  <a href="https://www.linkedin.com/in/mohammadmastur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:bikanerwalamastur13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/mohammadmastur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="mailto:bikanerwalamastur13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
 
-  <br/><br/>
-  
   <sub>Designed with intent &bull; Built for performance &bull; Optimized continuously</sub>
 
 </div>
