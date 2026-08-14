@@ -1,6 +1,6 @@
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Mohammad+Mastur;Full-Stack+Engineer+%26+Backend+Architect;Building+Agentic+AI+%26+Multi-Tenant+SaaS;LangChain+%26+LangGraph+Orchestrator;Optimizing+High-Throughput+APIs+%26+Databases+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Mohammad+Mastur;Full-Stack+Developer+%26+Backend+Engineer;Building+Multi-Tenant+SaaS+%26+Business+Systems;Integrating+Generative+AI+%26+Real-Time+APIs;Designing+Clean+Databases+%26+Background+Queues+⚡" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -8,92 +8,92 @@
   <h1>👨‍💻 Mohammad Mastur</h1>
   
   <p>
-    <strong>Full-Stack Engineer &bull; Backend Architecture &bull; GenAI & Agentic AI (LangChain / LangGraph)</strong>
+    <strong>Full-Stack Developer &bull; Backend Engineering &bull; Database Design &bull; GenAI & Agentic Systems</strong>
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/mohammadmastur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:bikanerwalamastur13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/mohammadmastur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/mohammadmastur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:bikanerwalamastur13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://github.com/mohammadmastur"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
 </div>
 
 ---
 
-## 📌 Executive Summary
+## 📌 About Me
 
-Full-Stack Software Engineer and BCA undergraduate at Swarrnim Startup & Innovation University, specializing in high-reliability backend engineering, isolated multi-tenant architectures, real-time distributed synchronization, and multimodal GenAI / Agentic systems. 
+BCA student at Swarrnim Startup & Innovation University and Full-Stack MERN Developer with a strong focus on **backend architecture, database design, and real-world SaaS systems**. 
 
-Experienced in architecting production-grade ERP and SaaS platforms featuring isolated database tenancy, 0ms Server-Sent Events (SSE) live counter broadcasting, Redis-backed asynchronous job queues (BullMQ), multimodal AI vision OCR document ingestion, and automated tax compliance pipelines. Actively engineering with **LangChain**, **LangGraph**, and autonomous multi-agent workflows.
+Experienced in building business applications with isolated multi-tenancy, real-time data sync, asynchronous job queues, and multimodal GenAI integrations. Currently exploring **LangChain, LangGraph, and Agentic AI workflows** alongside relational database optimization with PostgreSQL and DSA in C++.
 
 ---
 
 ## 🔭 Core Engineering Focus
 
-| ⚙️ Backend & Systems | 🗄️ Database & Scaling | 🤖 GenAI & Agentic Systems |
+| ⚙️ Backend & Architecture | 🗄️ Databases & Caching | 🤖 AI & Real-Time Systems |
 | :--- | :--- | :--- |
-| • **Multi-Tenant SaaS Isolation** | • **Compound & Geospatial Indexing** | • **LangChain & LangGraph Multi-Agent** |
-| • **Redis & BullMQ Task Queues** | • **Redis In-Memory Caching** | • **Autonomous Agentic Tool-Calling** |
-| • **High-Throughput REST APIs** | • **Document Aggregation Pipelines** | • **Gemini Multimodal Vision OCR** |
-| • **JWT & RBAC Security Layer** | • **PostgreSQL Schema Design** | • **LLM Gateway Routing & RAG** |
-| • **Event-Driven Architecture** | • **IndexedDB & Offline PWA Sync** | • **ML / DL Core Foundations** |
+| • RESTful API Design & Routing | • Compound & Geospatial Indexing | • Server-Sent Events (SSE) & Sockets |
+| • Redis Caching & BullMQ Queues | • Dynamic Multi-Tenant Data Isolation | • Multimodal AI Vision OCR (Gemini) |
+| • JWT Authentication & RBAC | • MongoDB Aggregations & Schema Design | • Multi-Model LLM Routing Gateways |
+| • Background Workers & Crons | • PostgreSQL Schema & Query Design | • LangChain & LangGraph Workflows |
+| • Offline PWA & Data Sync | • IndexedDB Client Storage Queues | • Webhook & Third-Party Integrations |
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
 ### 🏛️ Multi-Tenant Enterprise AI-Powered ERP SaaS Platform
-> **Cloud-native, offline-first Enterprise Resource Planning & POS Billing solution built for retail chains, wholesale distributors, and supermarkets.**
+> **Cloud-native, offline-first ERP & POS billing solution designed for supermarkets, retail chains, and wholesale distributors.**
 
-- **Multi-Tenant Data Isolation**: Engineered automated request-scoping middleware using `x-tenant-id` and JWT contexts, guaranteeing zero data cross-leakage across isolated store databases.
-- **0ms Real-Time Counter Sync**: Built a unidirectional Server-Sent Events (SSE) stream engine broadcasting instant stock deductions across 10+ hardware billing terminals concurrently.
-- **Multimodal AI OCR Receipt Scanner**: Integrated Google Gemini Vision API to parse raw physical invoices and receipts, automatically classifying and extracting line items, HSN codes, and tax rates into inward purchase books and expense ledgers.
-- **Resilient Offline PWA Engine**: Implemented Service Worker caching and an IndexedDB transactional draft queue allowing uninterrupted POS checkouts during internet blackouts with automated background reconciliation upon reconnection.
-- **Background Worker & Crons**: Deployed Redis and BullMQ queues for asynchronous PDF invoice rendering, subscription lifecycle monitoring, and direct WhatsApp receipt dispatching.
-- **Compliance & Auditing Engine**: Engineered dynamic apparel GST slab calculation (5% vs 12% dynamic threshold) and automated 1-click GSTR-1 / GSTR-3B CA Audit Pack JSON exporters.
+- **Tenant Isolation**: Implemented request-scoping middleware using `x-tenant-id` and JWT authorization to enforce strict database separation across merchant stores.
+- **Real-Time Counter Synchronization**: Built a unidirectional Server-Sent Events (SSE) stream broadcasting instant inventory deductions across multiple POS hardware counters with zero polling overhead.
+- **Multimodal AI OCR Ingestion**: Integrated Google Gemini Vision API to parse physical supplier invoices and expense receipts, auto-extracting line items, HSN codes, and GST rates into purchase ledgers.
+- **Offline PWA Checkout**: Designed a Service Worker and IndexedDB transaction queue enabling cashiers to bill offline during network outages with automated conflict-free sync on reconnect.
+- **Asynchronous Task Queues**: Configured Redis and BullMQ worker queues for asynchronous PDF invoice rendering, subscription expiration crons, and WhatsApp receipt dispatching.
+- **Tax & Ledger Automation**: Engineered automated apparel GST slab calculation (5% vs 12% price thresholds) and 1-click GSTR-1 / GSTR-3B CA Audit Pack exports.
 
 ```
-Stack: Node.js (v20+) • Express.js • React 19 • Vite 6 • MongoDB • Redis 7.2 • BullMQ • Google Gemini AI • Tailwind CSS v4 • PDFKit
+Stack: React 19 • Vite • Node.js • Express.js • MongoDB • Redis • BullMQ • Google Gemini AI • Tailwind CSS • PDFKit
 ```
 
 ---
 
 ### 🤖 Multi-Model AI Gateway & Chat Platform
-> **Production-grade AI conversation platform with dynamic provider routing and unified multi-LLM orchestration.**
+> **Multi-LLM chat application with dynamic provider routing and unified model abstraction.**
 
-- **Dynamic Provider Routing Engine**: Built an intelligent backend dispatcher that routes client prompts between Google Gemini REST endpoints and OpenRouter's OpenAI-compatible aggregator.
-- **Multi-Model Orchestration**: Supports zero-latency switching across Gemini 2.5 Flash/Pro, Llama 3.1 8B, Qwen 3 8B, DeepSeek, and GPT-4.1 within a unified chat workspace.
-- **Fault-Tolerant API Layer**: Engineered custom `ProviderError` handlers with automated single-retry mechanisms, rate-limit shielding, and structured audit logging without credential leakage.
-- **Interactive UI Architecture**: Implemented optimistic updates, syntax-highlighted code rendering, custom markdown parsing, and persistent MongoDB thread history.
-
-```
-Stack: React 18 • Vite • Tailwind CSS • Framer Motion • Node.js • Express.js • MongoDB • Google Gemini API • OpenRouter API
-```
-
----
-
-### 🍽️ Cloud-Native Restaurant ERP & Real-Time Kitchen Display System
-> **Containerized enterprise restaurant operations platform featuring automated order state machines and kitchen telemetry.**
-
-- **Containerized Microservice Deployment**: Orchestrated full-stack multi-container infrastructure using Docker, Docker Compose, and Nginx reverse proxy load balancing.
-- **Real-Time Kitchen Display (KDS)**: Built bidirectional WebSocket streams (Socket.io) for instantaneous table-to-kitchen order routing and live order status state transitions.
-- **Asynchronous Order Processing**: Integrated Redis and BullMQ background workers for automated thermal receipt generation and asynchronous image processing via Cloudinary.
-- **Defense-in-Depth Security**: Implemented strict RBAC (Admin, Captain, Kitchen, Cashier), Helmet security headers, rate limiting, and Zod runtime schema validations.
+- **Provider Abstraction Layer**: Built a unified backend dispatcher that routes prompts between Google Gemini REST endpoints and OpenRouter's API based on the selected model.
+- **Multi-Model Support**: Supports dynamic switching across Gemini 2.5 Flash/Pro, Llama 3.1 8B, Qwen 3 8B, DeepSeek, and GPT-4.1 within a single interface.
+- **Fault-Tolerant Request Handling**: Implemented custom `ProviderError` wrappers with automated retry logic, rate-limit protection, and structured logging.
+- **Conversation State**: Manages persistent chat sessions in MongoDB with full Markdown and syntax-highlighted code rendering.
 
 ```
-Stack: Node.js • Express.js • MongoDB • Redis • BullMQ • Docker • Docker Compose • Nginx • Socket.io • Cloudinary • Winston
+Stack: React 18 • Vite • Node.js • Express.js • MongoDB • Google Gemini API • OpenRouter API • Tailwind CSS • Framer Motion
 ```
 
 ---
 
-### ⚡ Vingo — Gig-Economy Logistics & Real-Time Delivery Aggregator
-> **Hyperlocal food and grocery delivery network connecting consumers, merchant outlets, and courier fleets.**
+### 🍽️ Restaurant ERP & Real-Time Kitchen Display System (KDS)
+> **Full-stack restaurant operations platform managing real-time order states and kitchen workflows.**
 
-- **Geospatial Proximity Matching**: Utilized MongoDB `2dsphere` geospatial indexing and spherical geometry queries to compute live driver allocation within sub-second thresholds.
-- **Live Fleet Tracking**: Integrated Leaflet Maps with bidirectional Socket.io pipelines to render real-time courier telemetry and trip progress updates.
-- **Tri-Party State Synchronization**: Architected a robust state machine managing concurrent lifecycles across Customer, Vendor, and Delivery Partner interfaces.
-- **Payment Verification**: Integrated Razorpay payment webhooks with cryptographic signature verification for secure checkout settlements.
+- **Real-Time Order Routing**: Implemented bidirectional WebSocket streams (Socket.io) for instant table-to-kitchen order dispatch and live lifecycle state updates.
+- **Containerized Architecture**: Deployed the multi-service backend, MongoDB, Redis, and frontend using Docker, Docker Compose, and Nginx reverse proxy routing.
+- **Asynchronous Processing**: Integrated Redis and BullMQ background queues for automated thermal receipt generation and asynchronous media uploads via Cloudinary.
+- **Role-Based Access**: Structured granular authorization across Admin, Captain, Kitchen, and Cashier roles with rate limiting and schema validations.
+
+```
+Stack: Node.js • Express.js • MongoDB • Redis • BullMQ • Docker • Docker Compose • Nginx • Socket.io • Cloudinary
+```
+
+---
+
+### ⚡ Vingo — Real-Time Logistics & Food Delivery Platform
+> **Hyperlocal delivery aggregator platform connecting customers, vendors, and delivery partners.**
+
+- **Geospatial Proximity Matching**: Utilized MongoDB `2dsphere` geospatial indexing and queries to compute real-time driver matching based on store coordinates.
+- **Live Fleet Tracking**: Integrated Leaflet Maps with Socket.io for live order broadcasting and courier location updates.
+- **Multi-Role Coordination**: Structured state transitions across Customer, Vendor, and Courier interfaces for seamless order lifecycles.
+- **Payment Verification**: Integrated Razorpay checkout with backend webhook signature validation.
 
 ```
 Stack: React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet Maps • Razorpay • Tailwind CSS
@@ -105,18 +105,18 @@ Stack: React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet
 
 <table align="center">
   <tr>
-    <td align="center" width="130"><strong>Languages</strong></td>
+    <td align="center" width="140"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><strong>Backend</strong></td>
+    <td align="center" width="140"><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
@@ -128,7 +128,7 @@ Stack: React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><strong>Databases</strong></td>
+    <td align="center" width="140"><strong>Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -137,38 +137,46 @@ Stack: React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><strong>Frontend</strong></td>
+    <td align="center" width="140"><strong>Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
       <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><strong>AI & Machine Learning</strong></td>
+    <td align="center" width="140"><strong>AI & Machine Learning</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logo=openai&logoColor=white" alt="OpenRouter" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
       <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=diagram&logoColor=white" alt="LangGraph" />
       <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=flat-square&logo=probot&logoColor=white" alt="Agentic AI" />
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
-      <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logo=openai&logoColor=white" alt="OpenRouter" />
-      <img src="https://img.shields.io/badge/ML_%2F_DL_Core-3776AB?style=flat-square&logo=python&logoColor=white" alt="ML/DL" />
       <img src="https://img.shields.io/badge/Multimodal_OCR-00A67E?style=flat-square&logo=tesseract&logoColor=white" alt="OCR" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="130"><strong>DevOps & Tools</strong></td>
+    <td align="center" width="140"><strong>Cloud & DevOps</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>Tools & Integrations</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+      <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
+      <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API" />
+      <img src="https://img.shields.io/badge/PDFKit-E01E5A?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDFKit" />
     </td>
   </tr>
 </table>
@@ -177,11 +185,12 @@ Stack: React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet
 
 ## 📈 Active Engineering Focus
 
-- **Agentic AI & Graph Orchestration**: Building cyclical multi-agent workflows with **LangGraph**, RAG pipelines with **LangChain**, autonomous tool-calling, and structured outputs.
-- **Machine Learning & Deep Learning Foundations**: Strengthening foundational concepts in neural networks, embeddings, vector stores, transformer architectures, and LLM fine-tuning.
-- **Distributed Systems & High Concurrency**: Deepening expertise in event-driven architecture, distributed caching layers, and horizontal database scaling.
-- **Relational Mastery & Advanced Indexing**: Refining PostgreSQL schema normalization, foreign key constraints, ACID transaction isolation, and B-Tree index optimization.
-- **Algorithmic Problem Solving**: Practicing Data Structures & Algorithms in C++ to sharpen complexity analysis and runtime optimization.
+- **Backend Architecture & API Design**: Designing modular RESTful services, middleware pipelines, and scalable request validation.
+- **Database Optimization & PostgreSQL**: Refining indexing strategies, relational schema design, transactions, and query performance.
+- **Redis Caching & Background Queues**: Implementing in-memory caching patterns and BullMQ worker queues for asynchronous processing.
+- **Agentic AI & LLM Workflows**: Building stateful multi-agent systems and RAG pipelines using **LangChain** and **LangGraph**.
+- **Real-Time Communication**: Working with Server-Sent Events (SSE) and WebSockets for low-latency live synchronization.
+- **DSA in C++**: Practicing data structures and algorithms to strengthen computational problem-solving and efficiency.
 
 ---
 
@@ -190,19 +199,19 @@ Stack: React.js • Node.js • Express.js • MongoDB • Socket.io • Leaflet
 <div align="center">
 
   <p>
-    Whether you are discussing backend architecture, system design, SaaS engineering, or modern full-stack development — feel free to reach out.
+    Open to discussing backend architecture, SaaS development, full-stack systems, and AI engineering.
   </p>
 
   <a href="https://www.linkedin.com/in/mohammadmastur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:bikanerwalamastur13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
   <br/><br/>
   
-  <sub>Crafted with intent &bull; Designed for scale &bull; Optimized continuously</sub>
+  <sub>Designed with intent &bull; Built for performance &bull; Optimized continuously</sub>
 
 </div>
