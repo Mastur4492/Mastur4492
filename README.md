@@ -1,6 +1,6 @@
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Mohammad+Mastur;Full-Stack+Developer+%26+Backend+Engineer;Building+Multi-Tenant+SaaS+%26+Business+Systems;Integrating+Generative+AI+%26+Real-Time+APIs;Designing+Clean+Databases+%26+Background+Queues+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Mohammad+Mastur;Full-Stack+MERN+Developer;Backend+Architecture+%26+APIs;Multi-Tenant+SaaS+Systems;GenAI+%26+Agentic+Workflows+🚀" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ## 📌 About Me
 
-BCA student at Swarrnim Startup & Innovation University and Full-Stack MERN Developer with a strong focus on **backend architecture, database design, and real-world SaaS systems**. 
+Full-Stack MERN Developer and BCA student at Swarrnim Startup & Innovation University, with a strong focus on **backend architecture, database design, and real-world SaaS systems**. 
 
 Experienced in building business applications with isolated multi-tenancy, real-time data sync, asynchronous job queues, and multimodal GenAI integrations. Currently exploring **LangChain, LangGraph, and Agentic AI workflows** alongside relational database optimization with PostgreSQL and DSA in C++.
 
