@@ -1,7 +1,7 @@
 <!-- Typing Animation Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Mohammad+Mastur;Full-Stack+MERN+Developer;Backend+Architecture+%26+APIs;Multi-Tenant+SaaS+Systems;GenAI+%26+Agentic+Workflows+🚀" alt="Typing SVG" />
-</p>
+</p> -->
 
 <div align="center">
 
